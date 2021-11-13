@@ -1,0 +1,5 @@
+consumer/node_modules/*
+consumer/package-lock.json
+producer/node_modules/*
+producer/package-lock.json
+.DS_Store
